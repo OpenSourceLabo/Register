@@ -1,0 +1,15 @@
+{
+
+ "name": "BotStudios",
+ "description": "A Discord Music Bot",
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "music-bot"
+  ],
+ "repo": "https://github.com/BotStudios/Music-Bot",
+ "author": "wowlillily",
+ "email": "tojoeleeofficial@gmail.com",
+ "related": [ "Discord-bot", "music-bot" ]
+
+}
