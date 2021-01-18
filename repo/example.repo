@@ -1,0 +1,15 @@
+{
+
+ "name": "Your_Repo_Name/OpenSource_Name",
+ "description": "Describe Your Open Source",
+  "keywords": [
+    "KeyWord-1",
+    "KeyWord-2",
+    "KeyWord-3"
+  ],
+ "repo": "Repo Link",
+ "author": "Owner_Of_The_Repo",
+ "email": "Email-Address",
+ "related": [ "Related", "To SomeThing" ]
+
+}
