@@ -1,0 +1,3 @@
+- [x] I have read and accepted the [Terms and Conditions](./T&C.md)
+- [x] The Project Is Owned And Managed By Me.
+- [x] My repo has a LICENSE file
