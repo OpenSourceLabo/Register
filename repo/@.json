@@ -1,0 +1,15 @@
+{
+
+ "name": "OpenSourceLabo",
+ "description": "Open Source Codes",
+  "keywords": [
+    "opensource",
+    "Labo",
+    "TheOpenSourceLabo"
+  ],
+ "repo": "https://github.com/register",
+ "author": "TheOpenSourceLabo",
+ "email": "tojoeleeofficial@gmail.com",
+ "related": [ "OpenSource", "Organization" ]
+
+}
