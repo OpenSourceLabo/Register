@@ -19,5 +19,5 @@ Fork This Repository
 
 ### Step 3 
 
-Add A File (e.g. `your_name.repo`) In [./repo] Then Make A Pull Request. 
+Add A File (e.g. `your_name.repo`) In [./repo](./repo) Then Make A Pull Request. 
 ` note that your opensource project must be unique and licensed `
